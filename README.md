@@ -2,6 +2,10 @@
 
 A simple and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. This project demonstrates basic DOM manipulation, event handling, and game logic implementation in JavaScript.
 
+🌐 Live Demo
+
+🔗 https://hassaan-328.github.io/Tic_tac_Game/
+
 ## 🚀 Features
 
 * Two-player gameplay (Player **O** vs Player **X**)
